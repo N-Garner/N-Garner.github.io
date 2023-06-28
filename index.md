@@ -1,9 +1,6 @@
 ## Published Work
 
 ---
-
-### UNDER CONSTRUCTION
-
 <img src="https://freesvg.org/img/Under-Construction-A4--Arvin61r58.png"/>
 
 [Project 1 Title](/sample_page)
