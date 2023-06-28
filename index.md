@@ -1,4 +1,9 @@
-## Portfolio
+## Find out more about me
+
+[My Resume](/pdf/Resume.pdf) 
+---
+
+## Published Work
 
 ---
 
