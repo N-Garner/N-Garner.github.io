@@ -1,13 +1,10 @@
-## Find out more about me
-
-[My Resume](/pdf/Resume.pdf) 
----
-
 ## Published Work
 
 ---
 
-### Category Name 1 
+### UNDER CONSTRUCTION
+
+<img src="https://freesvg.org/img/Under-Construction-A4--Arvin61r58.png"/>
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -32,7 +29,7 @@
 
 ---
 
-
+## In the works
 
 
 ---
