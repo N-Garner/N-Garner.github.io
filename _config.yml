@@ -14,6 +14,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://orcid.org/0000-0003-0118-0720/">View my ORCiD</a> 
   <br><br>
   <a href="https://n-garner.github.io/pdf/Resume.pdf">Check out my Resume</a>  
+  <a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
   <br><br>
   
 theme: jekyll-theme-minimal
