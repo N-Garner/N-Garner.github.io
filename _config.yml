@@ -7,14 +7,15 @@ description: > # your text below (remove <br> elements if you don't need line br
   Enthusiastic about coffee, sleep, and everything in between
   <br><br>
   Links: 
+  <br><br>
   <a href="https://github.com/N-Garner">View My GitHub Profile</a></p>
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/nick-garner-8b31b093/">View my LinkedIn Profile</a> 
-  <br><br>
+  <br>
   <a href="https://www.researchgate.net/profile/Nicholas-Garner-2/">View my ResearchGate Profile</a> 
-  <br><br>
+  <br>
   <a href="https://orcid.org/0000-0003-0118-0720/">View my ORCiD</a> 
-  <br><br>
+  <br>
   <a href="https://n-garner.github.io/pdf/Resume.pdf">Check out my Resume</a>  
   
 theme: jekyll-theme-minimal
