@@ -9,8 +9,21 @@
 
 > Nature Communications · Nov 1, 2022 · Lei Qian, Oliver Rawashdeh, Leda Kasas, Michael R. Milne , Nicholas Garner, Kornraviya San, Nicola Marks, Matthew W. Dean, Pu Reum Kim, Aanchal Sharma, Mark C. Bellingham, Elizabeth J. Coulson
 
----
 [Circadian Rhythmicity of Vital Signs at Intensive Care Unit Discharge and Outcome of Traumatic Brain Injury](https://doi.org/10.4037/ajcc2022821)
+> American Journal of Critical Care · Nov 1, 2022 · Rob Boots, George Xue, Dirk Tromp, Oliver Rawashdeh, Judith Bellapart, Shane Townsend, Michael Rudd, Craig Winter, Gary Mitchell, Nicholas Garner, Pierre Clement, Nermin Karamujic, Christopher Zappala
+
+[Temperature rhythms and ICU sleep: the TRIS study](https://www.minervamedica.it/en/journals/minerva-anestesiologica/article.php?cod=R02Y2021N07A0794)
+Minerva Anestesiologica. · Jul 1, 2022 · Rob J. Boots, Gabrielle Mead, Nicholas Garner, Oliver Rawashdeh, Judith Bellapart, Shane Townsend, Jenny Paratz, Pierre Clement, David Oddy, Matthew Leong, Christopher Zappala
+
+[Temperature Profile and Adverse Outcomes After Discharge From the Intensive Care Unit](https://doi.org/10.4037/ajcc2022223)
+American Journal of Critical Care · Jan 1, 2022 · Rob Boots, Gabrielle Mead, Oliver Rawashdeh, Judith Bellapart, Shane Townsend, Jenny Paratz, Nicholas Garner, Pierre Clement, David Oddy
+
+[Circadian Hygiene in the ICU Environment (CHIE) study](https://ccr.cicm.org.au/journal-editions/articles/1391)
+Critical Care and Resuscitation · Dec 1, 2020 · Rob Boots, Gabrielle Mead, Oliver Rawashdeh, Judith Bellapart, Shane Townsend, Jenny Paratz, Nicholas Garner, Pierre Clement, David Oddy
+
+[CircaCompare: a method to estimate and statistically support differences in mesor, amplitude and phase, between circadian rhythms](https://doi.org/10.1093/bioinformatics/btz730)
+Bioinformatics · Oct 7, 2019 · Rex Parsons, Richard Parsons, Nicholas Garner, Henrik Oster, Oliver Rawashdeh
+
 
 <!-- [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -41,6 +54,8 @@
 <p align="center">
 <img src="images/haze-programmer-writing-code-on-laptop-1.png?raw=true" width="200"/>
 </p>
+
+### Unravelling the role of Parkinson’s disease pathology in sleep and circadian disruption ( PhD Thesis )
 
 
 ## Personal Projects
