@@ -6,7 +6,9 @@
 
 ---
 [Cholinergic basal forebrain degeneration due to sleep-disordered breathing exacerbates pathology in a mouse model of Alzheimer’s disease](https://www.nature.com/articles/s41467-022-33624-y)
+
 > Nature Communications · Nov 1, 2022 · Lei Qian, Oliver Rawashdeh, Leda Kasas, Michael R. Milne , Nicholas Garner, Kornraviya San, Nicola Marks, Matthew W. Dean, Pu Reum Kim, Aanchal Sharma, Mark C. Bellingham, Elizabeth J. Coulson
+
 ---
 [Circadian Rhythmicity of Vital Signs at Intensive Care Unit Discharge and Outcome of Traumatic Brain Injury](https://doi.org/10.4037/ajcc2022821)
 
@@ -53,4 +55,4 @@
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute 
+<!-- Remove above link if you don't want to attibute -->
