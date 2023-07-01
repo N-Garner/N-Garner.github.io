@@ -68,7 +68,7 @@ Unravelling the role of Parkinson’s disease pathology in sleep and circadian d
 </p>
  
 <p align="center">
-<img src="https://freesvg.org/img/Under-Construction-A4--Arvin61r58.png"/>
+<img src="3d-casual-life-young-woman-painting-the-wall-with-a-roller.png?raw=true"/>
 </p>
 
 ---
