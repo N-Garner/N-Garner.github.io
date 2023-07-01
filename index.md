@@ -34,12 +34,12 @@
 ) -->
 ## In The Works
 
-<img src="images/haze-programmer-writing-code-on-laptop-1.png?raw=true"/>
+<img src="images/haze-programmer-writing-code-on-laptop-1.png?raw=true" width="200"/>
 
 
 ## Personal Projects
 
-<img src="images/haze-hands-working-on-business-analytics-1.png?raw=true"/>
+<img src="images/haze-hands-working-on-business-analytics-1.png?raw=true" width="200"/>
 
 <img src="https://freesvg.org/img/Under-Construction-A4--Arvin61r58.png"/>
 
