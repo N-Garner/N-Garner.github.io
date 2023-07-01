@@ -22,7 +22,7 @@
 > Critical Care and Resuscitation · Dec 1, 2020 · Rob Boots, Gabrielle Mead, Oliver Rawashdeh, Judith Bellapart, Shane Townsend, Jenny Paratz, Nicholas Garner, Pierre Clement, David Oddy
 
 [CircaCompare: a method to estimate and statistically support differences in mesor, amplitude and phase, between circadian rhythms](https://doi.org/10.1093/bioinformatics/btz730)
-Bioinformatics · Oct 7, 2019 · Rex Parsons, Richard Parsons, Nicholas Garner, Henrik Oster, Oliver Rawashdeh
+> Bioinformatics · Oct 7, 2019 · Rex Parsons, Richard Parsons, Nicholas Garner, Henrik Oster, Oliver Rawashdeh
 
 ---
 <!-- [Project 1 Title](/sample_page)
