@@ -54,9 +54,9 @@
 <p align="center">
 <img src="images/haze-programmer-writing-code-on-laptop-1.png?raw=true" width="200"/>
 </p>
-
-### Unravelling the role of Parkinson’s disease pathology in sleep and circadian disruption ( PhD Thesis )
-
+<br><br>
+Unravelling the role of Parkinson’s disease pathology in sleep and circadian disruption (PhD Thesis)
+<br><br>
 
 ## Personal Projects
 
