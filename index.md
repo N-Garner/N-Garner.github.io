@@ -1,6 +1,6 @@
 ## Published Work
 
-<img src="images/haze-box-with-documents.png?raw=true"/>
+<img src="images/haze-box-with-documents.png?raw=true" width="200"/>
 
 ---
 [Cholinergic basal forebrain degeneration due to sleep-disordered breathing exacerbates pathology in a mouse model of Alzheimer’s disease](https://www.nature.com/articles/s41467-022-33624-y)
