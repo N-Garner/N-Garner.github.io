@@ -4,7 +4,8 @@
 <img src="images/haze-box-with-documents.png?raw=true" width="200"/>
 </p>
 
----
+### Journal Articles
+
 [Cholinergic basal forebrain degeneration due to sleep-disordered breathing exacerbates pathology in a mouse model of Alzheimer’s disease](https://www.nature.com/articles/s41467-022-33624-y)
 
 > Nature Communications · Nov 1, 2022 · Lei Qian, Oliver Rawashdeh, Leda Kasas, Michael R. Milne , Nicholas Garner, Kornraviya San, Nicola Marks, Matthew W. Dean, Pu Reum Kim, Aanchal Sharma, Mark C. Bellingham, Elizabeth J. Coulson
@@ -66,7 +67,11 @@ Unravelling the role of Parkinson’s disease pathology in sleep and circadian d
 <p align="center">
 <img src="images/haze-hands-working-on-business-analytics-1.png?raw=true" width="200"/>
 </p>
- 
+
+### Under Construction
+
+Check back later!
+
 <p align="center">
 <img src="images/3d-casual-life-young-woman-painting-the-wall-with-a-roller.png?raw=true"/>
 </p>
