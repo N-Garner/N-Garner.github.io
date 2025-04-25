@@ -4,7 +4,14 @@
 <img src="images/haze-box-with-documents.png?raw=true" width="200"/>
 </p>
 
+### PhD Thesis
+[Unravelling the role of Parkinson's disease pathology in sleep and circadian disruption](https://espace.library.uq.edu.au/view/UQ:168c3f7)
+> The University of Queensland · Feb 9, 2024 · Nicholas Garner
+
 ### Journal Articles
+
+[Melatonin’s role in the timing of sleep onset is conserved in nocturnal mice](https://www.nature.com/articles/s44323-024-00013-1)
+> npj Biological Timing and Sleep · Nov 1, 2024 · Pureum Kim, Nicholas Garner, Annaleis Tatkovic, Rex Parsons, Prasad Chunduri, Jana Vukovic, Michael Piper, Martina Pfeffer, Marco Weiergräber, Henrik Oster, Oliver Rawashdeh
 
 [Cholinergic basal forebrain degeneration due to sleep-disordered breathing exacerbates pathology in a mouse model of Alzheimer’s disease](https://www.nature.com/articles/s41467-022-33624-y)
 
@@ -50,18 +57,14 @@
 
 ---
 ) -->
-## In The Works
+<!-- ## In The Works
 
 <p align="center">
 <img src="images/haze-programmer-writing-code-on-laptop-1.png?raw=true" width="200"/>
 </p>
 
-### PhD Thesis
-
-Unravelling the role of Parkinson’s disease pathology in sleep and circadian disruption
-
 ---
-
+-->
 ## Personal Projects
 
 <p align="center">
