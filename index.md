@@ -3,10 +3,12 @@
 <p align="center">
 <img src="images/haze-box-with-documents.png?raw=true" width="200"/>
 </p>
+<br>
 
 ### PhD Thesis
 [Unravelling the role of Parkinson's disease pathology in sleep and circadian disruption](https://espace.library.uq.edu.au/view/UQ:168c3f7)
 > The University of Queensland · Feb 9, 2024 · Nicholas Garner
+<br>
 
 ### Journal Articles
 
@@ -31,8 +33,9 @@
 
 [CircaCompare: a method to estimate and statistically support differences in mesor, amplitude and phase, between circadian rhythms](https://doi.org/10.1093/bioinformatics/btz730)
 > Bioinformatics · Oct 7, 2019 · Rex Parsons, Richard Parsons, Nicholas Garner, Henrik Oster, Oliver Rawashdeh
+<br>
 
----
+
 <!-- [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
